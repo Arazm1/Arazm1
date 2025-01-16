@@ -1,13 +1,16 @@
 # Hi there 👋
 
-
+&nbsp;
 ## About me
+
 I am a student at Metropolia University of Applied Sciences, studying Information and Communication Technology.
 
 * 🛠️ I’ve recently worked on small-scale projects that can be found [here](https://github.com/Arazm1/Small-Projects)
 
 * 🛠️ Additionally, I have worked on some small-scale frontend-focused projects that can be found [here](https://github.com/Arazm1/Frontend-snippets)
-* 🔭 I'm currently learning the basics of C++ coding.
+* 🔭 I'm currently working on various small-scale projects that focus on both backend and frontend as well as learning the basics of C++ coding.
+
+&nbsp;
 
 ## Programming Languages
 
