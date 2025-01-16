@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
 
-# About me
+## About me
 I am a student at Metropolia University of Applied Sciences, studying Information and Communication Technology.
 
 * 🛠️ I’ve recently worked on small-scale projects that can be found [here](https://github.com/Arazm1/Small-Projects)
@@ -9,7 +9,7 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 * 🛠️ Additionally, I have worked on some small-scale frontend-focused projects that can be found [here](https://github.com/Arazm1/Frontend-snippets)
 * 🔭 I'm currently learning the basics of C++ coding.
 
-# Programming Languages
+## Programming Languages
 - <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" width="30" height="30"></a> Python  
 - <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" width="30" height="30"></a> MySQL  
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" width="30" height="30"></a> JavaScript  
