@@ -8,7 +8,7 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 * 🛠️ I’ve recently worked on small-scale projects that can be found [here](https://github.com/Arazm1/Small-Projects)
 
 * 🛠️ Additionally, I have worked on some small-scale frontend-focused projects that can be found [here](https://github.com/Arazm1/Frontend-snippets)
-* 🔭 I'm currently working on various small-scale projects that focus on both backend and frontend as well as learning the basics of C++ coding.
+* 🔭 I'm currently working on various small-scale projects that focus on both backend and frontend, while also learning the basics of C++ and relearning the basics of Java.
 
 &nbsp;
 
