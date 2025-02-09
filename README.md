@@ -23,6 +23,22 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,js,html,css,java,cpp,flask)](https://skillicons.dev)
 
+<!--
+
+ALTERNATIVE
+
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org) 
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) 
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com) 
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org) 
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
+
+-->
+
+
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------
