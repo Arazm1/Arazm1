@@ -16,6 +16,13 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 
 <div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,java,cpp)](https://skillicons.dev)
+
+</div>
+
+<!--
+<div align="center">
+
 <a href="https://www.python.org/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" width="30" height="30" alt="Python">
 </a>
@@ -36,6 +43,8 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 </a>
 
 </div>
+
+-->
 
 
 
