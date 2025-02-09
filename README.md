@@ -1,6 +1,8 @@
+<!--
 # Hi there 👋
 
-&nbsp;
+&nbsp; -->
+
 ## About me
 
 I am a student at Metropolia University of Applied Sciences, studying Information and Communication Technology.
