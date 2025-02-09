@@ -3,7 +3,7 @@
 
 &nbsp; -->
 
-## About me
+## **About me**
 
 I am a student at Metropolia University of Applied Sciences, studying Information and Communication Technology.
 
@@ -14,9 +14,10 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 
 &nbsp;
 
-## Skills
+## **Skills**
 
-### Programming Languages
+### <ins>Programming Languages</ins>
+
 
 <div align="center">
 
@@ -26,13 +27,15 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-### Tools & Editors
+### <ins>Tools & Editors</ins>
 
 <div align="center">
     
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
 
 </div>
+
+----------------------------------------------------------------------------------------------------------------------------
 
 <!--
 <div align="center">
