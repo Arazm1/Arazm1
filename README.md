@@ -12,11 +12,23 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 
 &nbsp;
 
-## Programming Languages
+## Skills
+
+### Programming Languages
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,js,html,css,java,cpp)](https://skillicons.dev)
+
+</div>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+### Tools & Editors
+
+<div align="center">
+    
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
 
 </div>
 
