@@ -18,7 +18,7 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,js,html,css,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,js,html,css,java,cpp,flask)](https://skillicons.dev)
 
 </div>
 
