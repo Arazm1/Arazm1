@@ -34,29 +34,52 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 
 ## **Skills**
 
+
 ### <ins>Programming Languages</ins>
 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,js,html,css,java,cpp,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,js,html,css,java,cpp)](https://skillicons.dev)
 
 
 </div>
 
-----------------------------------------------------------------------------------------------------------------------------
+<hr>
+
+### <ins>Frameworks & Libraries</ins>
+
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,flask)](https://skillicons.dev)
+
+
+</div>
+
+<hr>
+
 
 ### <ins>Tools & Editors</ins>
 
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,postman)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
 
 </div>
+
+<hr>
+
+
+### <ins>Platforms & OS</ins>
+
+<div>
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,raspberrypi,mint)](https://skillicons.dev)
 
 
 </div>
