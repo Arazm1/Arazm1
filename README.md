@@ -15,7 +15,7 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
   
 * 🛠️ Learning the fundamentals of Java and C++.
   
-* 🔭 Exploring Linux as previously I have learned basics of Linux commands at school, now experimenting with Linux Mint.
+* 🔭 Exploring Linux once again as previously I have learned basics of Linux commands at school, now experimenting with Linux Mint.
 
 * 🔭 Interested in cybersecurity, learning more about best security practices and vulnerabilities.
 
