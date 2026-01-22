@@ -13,7 +13,7 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
   
 * 🛠️ Working on a Restaurant based web application using React, Node.js, and Express.js.
   
-* 🛠️ Learning the fundamentals of Java and C++.
+* 🛠️ Learning the fundamentals of Java.
   
 * 🔭 Exploring Linux once again as previously I have learned basics of Linux commands at school, now experimenting with Linux Mint.
 
@@ -28,6 +28,7 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 &nbsp;
 
 * 🔭 Currently learning Linux with Raspberry Pi while exploring embedded systems.
+* 🛠️ Learning the fundamentals of Java and C++.
 -->
 
 &nbsp;
