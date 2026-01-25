@@ -9,11 +9,9 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 
 
 
-* 🛠️ Currently, I'm taking a [Web Development course](https://github.com/Arazm1/Web-sovelluskehitys-TX00EY23-3009).
+* 🛠️ Currently, I'm taking a [Java Design Patterns course](https://github.com/Arazm1/Suunnittelumallit-TX00EY29-3009) to deepen my object-oriented design skills.
   
-* 🛠️ Working on a Restaurant based web application using React, Node.js, and Express.js.
-  
-* 🛠️ Learning the fundamentals of Java.
+* 🛠️ Recently worked on a [Restaurant based web application](https://github.com/Arazm1/wsk-restaurant-public) using React, Node.js, and Express.js.
   
 * 🔭 Exploring Linux once again as previously I have learned basics of Linux commands at school, now experimenting with Linux Mint.
 
@@ -21,6 +19,11 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 
 
 <!--
+Changelog 25.1.2026
+* 🛠️ Currently, I'm taking a [Web Development course](https://github.com/Arazm1/Web-sovelluskehitys-TX00EY23-3009).
+* 🛠️ Recently worked on a Restaurant based web application using React, Node.js, and Express.js.
+
+Changelog no idea:
 * 🛠️ I’ve recently worked on small-scale projects that can be found [here](https://github.com/Arazm1/Small-Projects)
 
 * 🛠️ Additionally, I have worked on some small-scale frontend-focused projects that can be found [here](https://github.com/Arazm1/Frontend-snippets)
