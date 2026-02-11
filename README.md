@@ -5,7 +5,7 @@
 
 ## **About me**
 
-I am a student at Metropolia University of Applied Sciences, studying Information and Communication Technology.
+I am a student of **Information and Communication Technology** at Metropolia University of Applied Sciences, majoring in **Software Engineering**.
 
 
 
@@ -19,6 +19,11 @@ I am a student at Metropolia University of Applied Sciences, studying Informatio
 * 🔭 Exploring Linux once again as previously I have learned basics of Linux commands at school, now experimenting with Linux Mint.
 
 * 🔭 Interested in cybersecurity, learning more about best security practices and vulnerabilities.
+
+
+<!--
+Changelog 11.2026
+I am a student at Metropolia University of Applied Sciences, studying Information and Communication Technology.
 
 <!--
 Changelog 28.1.2026
