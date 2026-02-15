@@ -22,7 +22,16 @@ I am a student of **Information and Communication Technology** at Metropolia Uni
 
 
 <!--
-Changelog 11.2026
+Changelog 15.2.2026
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,js,html,css,java,cpp)](https://skillicons.dev)
+
+
+</div>
+
+Changelog 11.2.2026
 I am a student at Metropolia University of Applied Sciences, studying Information and Communication Technology.
 
 <!--
@@ -57,8 +66,13 @@ Changelog no idea:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,js,html,css,java,cpp)](https://skillicons.dev)
-
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 
 </div>
 
