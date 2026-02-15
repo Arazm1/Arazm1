@@ -115,6 +115,7 @@ Changelog no idea:
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 </div>
 
