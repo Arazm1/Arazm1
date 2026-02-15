@@ -131,6 +131,7 @@ Changelog no idea:
 [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
 
 
 
