@@ -31,6 +31,34 @@ Changelog 15.2.2026
 
 </div>
 
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,flask)](https://skillicons.dev)
+
+
+</div>
+
+<div align="center">
+    
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,postman)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+
+
+</div>
+
+<div align="center">
+    
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,raspberrypi,mint)](https://skillicons.dev)
+
+
+</div>
+
+
+
+
+
 Changelog 11.2.2026
 I am a student at Metropolia University of Applied Sciences, studying Information and Communication Technology.
 
@@ -83,10 +111,13 @@ Changelog no idea:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,flask)](https://skillicons.dev)
-
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 
 </div>
+
 
 <hr>
 
@@ -94,13 +125,20 @@ Changelog no idea:
 ### <ins>Tools & Editors</ins>
 
 <div align="center">
-    
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,postman)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
+
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
 
 </div>
+
 
 <hr>
 
@@ -109,9 +147,11 @@ Changelog no idea:
 
 <div>
 <div align="center">
-    
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,raspberrypi,mint)](https://skillicons.dev)
 
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
+[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
+[![Linux Mint](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
 
 </div>
 
