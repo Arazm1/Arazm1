@@ -131,8 +131,8 @@ Changelog no idea:
 [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
-
 
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
@@ -154,6 +154,7 @@ Changelog no idea:
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
 [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
 [![Linux Mint](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
+[![Linux Kali](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
 
 </div>
 
