@@ -132,7 +132,6 @@ Changelog no idea:
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
-[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
 
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
@@ -141,6 +140,17 @@ Changelog no idea:
 
 </div>
 
+<hr>
+
+### <ins>CI/CD & DevOps</ins>
+
+
+<div align="center">
+
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+
+</div>
 
 <hr>
 
