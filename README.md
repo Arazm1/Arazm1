@@ -163,6 +163,7 @@ Changelog no idea:
 
 [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
+[![Linux Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
 [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
 [![Linux Mint](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
 [![Linux Kali](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
