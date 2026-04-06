@@ -13,10 +13,11 @@ I am a student of **Information and Communication Technology** at Metropolia Uni
   - 📝 [Java Design Patterns](https://github.com/Arazm1/Suunnittelumallit-TX00EY29-3009).
   - 📊 [Specification and Modeling Methods](https://github.com/Arazm1/Kuvaus--ja-mallintamismenetelmat-TX00EY25-3009).
   - 🗂️ [Software Engineering Project](https://github.com/Arazm1/Ohjelmistotuotantoprojekti-1-TX00EY27-3009).
+  - 📚 [Data Structures and Algorithms](https://github.com/Arazm1/-Tietorakenteet-ja-algoritmit-TX00EY28-3009).
   
 * 🛠️ Recently worked on a [Restaurant based web application](https://github.com/Arazm1/wsk-restaurant-public) using React, Node.js, and Express.js.
   
-* 🔭 Exploring Linux once again as previously I have learned basics of Linux commands at school, now experimenting with Linux Mint.
+* 🔭 Exploring Linux once again as previously I have learned basics of Linux commands at school, now experimenting with Linux Ubuntu.
 
 * 🔭 Interested in cybersecurity, learning more about best security practices and vulnerabilities.
 
