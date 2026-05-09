@@ -17,12 +17,15 @@ I am a student of **Information and Communication Technology** at Metropolia Uni
   
 * 🛠️ Previously worked on a [Restaurant based web application](https://github.com/Arazm1/wsk-restaurant-public) using React, Node.js, and Express.js.
   
-* 🔭 Exploring Linux once again as previously I have learned basics of Linux commands at school, now experimenting with Linux Ubuntu.
+* 🔭 Experimenting with Linux (Ubuntu).
 
 * 🔭 Interested in cybersecurity, learning more about best security practices and vulnerabilities.
 
 
 <!--
+Changelog 9.5.2026
+* 🔭 Exploring Linux once again as previously I have learned basics of Linux commands at school, now experimenting with Linux Ubuntu.
+
 
 Changelog 6.5.2026
 
