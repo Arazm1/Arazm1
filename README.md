@@ -9,6 +9,7 @@ I am a student of **Information and Communication Technology** at Metropolia Uni
 
 
 
+* ⚙️ Currently learning Spring Boot for backend development and REST APIs.
 * 🛠️ I've recently taken the following courses:
   - 📝 [Java Design Patterns](https://github.com/Arazm1/Suunnittelumallit-TX00EY29-3009).
   - 📊 [Specification and Modeling Methods](https://github.com/Arazm1/Kuvaus--ja-mallintamismenetelmat-TX00EY25-3009).
