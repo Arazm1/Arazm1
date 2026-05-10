@@ -163,6 +163,9 @@ Changelog no idea:
 
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+<a href="https://minikube.sigs.k8s.io/docs/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" />
+</a>
 <a href="https://www.sonarsource.com/products/sonarqube/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" />
 </a>
