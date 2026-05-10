@@ -24,6 +24,11 @@ I am a student of **Information and Communication Technology** at Metropolia Uni
 
 
 <!--
+Changelog 10.5.2026
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+
+
 Changelog 9.5.2026
 * 🔭 Exploring Linux once again as previously I have learned basics of Linux commands at school, now experimenting with Linux Ubuntu.
 
@@ -161,13 +166,18 @@ Changelog no idea:
 
 <div align="center">
 
-[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+<a href="https://www.jenkins.io/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="45" />
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="45" />
+</a>
+
 <a href="https://minikube.sigs.k8s.io/docs/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="45" />
 </a>
 <a href="https://www.sonarsource.com/products/sonarqube/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="45" />
 </a>
 
 </div>
