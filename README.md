@@ -11,10 +11,9 @@ I am a student of **Information and Communication Technology** at Metropolia Uni
 
 * ⚙️ Currently learning Spring Boot for backend development and REST APIs.
 * 🛠️ I've recently taken the following courses:
-  - 📝 [Java Design Patterns](https://github.com/Arazm1/Suunnittelumallit-TX00EY29-3009).
-  - 📊 [Specification and Modeling Methods](https://github.com/Arazm1/Kuvaus--ja-mallintamismenetelmat-TX00EY25-3009).
-  - 🗂️ [Software Engineering Project](https://github.com/Arazm1/Ohjelmistotuotantoprojekti-1-TX00EY27-3009).
-  - 📚 [Data Structures and Algorithms](https://github.com/Arazm1/-Tietorakenteet-ja-algoritmit-TX00EY28-3009).
+  - 📝 Database Solutions
+  - 📊 Probability and Statistical Mathematics
+  - 📚 Data Handling and Machine Learning
   
 * 🛠️ Previously worked on a [Restaurant based web application](https://github.com/Arazm1/wsk-restaurant-public) using React, Node.js, and Express.js.
   
@@ -100,6 +99,18 @@ I am a student of **Information and Communication Technology** at Metropolia Uni
 </div>
 
 <!--
+
+Changelog 29.10.
+* 🛠️ I've recently taken the following courses:
+  - 📝 [Java Design Patterns](https://github.com/Arazm1/Suunnittelumallit-TX00EY29-3009).
+  - 📊 [Specification and Modeling Methods](https://github.com/Arazm1/Kuvaus--ja-mallintamismenetelmat-TX00EY25-3009).
+  - 🗂️ [Software Engineering Project](https://github.com/Arazm1/Ohjelmistotuotantoprojekti-1-TX00EY27-3009).
+  - 📚 [Data Structures and Algorithms](https://github.com/Arazm1/-Tietorakenteet-ja-algoritmit-TX00EY28-3009).
+  
+
+
+
+
 
 Changelog 24.5.
 
