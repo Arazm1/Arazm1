@@ -9,7 +9,7 @@ I am a student of **Information and Communication Technology** at Metropolia Uni
 
 
 
-* ⚙️ Currently learning Spring Boot for backend development and REST APIs.
+* Currently working on **JunaLive**, a real-time train tracking web application built with React, Spring Boot, MySQL, and open railway APIs.
 * 🛠️ I've recently taken the following courses:
   - 📝 Database Solutions
   - 📊 Probability and Statistical Mathematics
@@ -99,6 +99,10 @@ I am a student of **Information and Communication Technology** at Metropolia Uni
 </div>
 
 <!--
+
+
+Changelog 25.1.
+* ⚙️ Currently learning Spring Boot for backend development and REST APIs.
 
 Changelog 29.10.
 * 🛠️ I've recently taken the following courses:
